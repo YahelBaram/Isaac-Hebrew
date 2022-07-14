@@ -2,4 +2,4 @@
 
 כרגע המוד לא מושלם ומי שמוצא את הדף הזה ובמקרה מכיר את תחום המודים למשחק יותר טוב מאיתנו תמיד מוזמן לעשות שינויים ולשפר את המוד
 
-בגדול כל המשחק [קיבל תרגום]("https://docs.google.com/document/d/1DPyvOUjAchk5JIwnRo4MUArvyAsRidT9hWMDhbiaJd8/edit")
+בגדול כל המשחק [קיבל תרגום](https://docs.google.com/document/d/1DPyvOUjAchk5JIwnRo4MUArvyAsRidT9hWMDhbiaJd8/edit)
