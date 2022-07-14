@@ -1,0 +1,20 @@
+<minibosses>
+	<miniboss id="0" name="WUKMG" />
+	<miniboss id="1" name="VUUTW" />
+	<miniboss id="2" name="XGF" />
+	<miniboss id="3" name="WUBRDRD" />
+	<miniboss id="4" name="WUBSNJ" />
+	<miniboss id="5" name="VTBE" />
+	<miniboss id="6" name="VUUTD" />
+	
+	<miniboss id="7" name="KG WUKMG" />
+	<miniboss id="8" name="KG WUUTW" />
+	<miniboss id="9" name="KG XGF" />
+	<miniboss id="10" name="KG WUBRDRD" />
+	<miniboss id="11" name="Super Greed" />
+	<miniboss id="12" name="KG WUBSNJ" />
+	<miniboss id="13" name="KG WUUTD" />
+	
+	<miniboss id="14" name="WHBUMHE VUUTD" />
+	<miniboss id="15" name="XUPNRE" />
+</minibosses>
