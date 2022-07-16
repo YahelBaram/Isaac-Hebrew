@@ -476,7 +476,7 @@
   <passive description="!WUMRPWV" gfx="Collectibles_466_Contagion.png" id="466" name="VECSV" />
   <familiar description="!GHCMN VWT ITK CK OHA" gfx="Collectibles_467_Finger.png" id="467" name="!GCMT" />
   <familiar achievement="285" description="CEUG TUV" gfx="Collectibles_468_Shade.png" id="468" name="KM" />
-  <familiar description="(:" gfx="Collectibles_469_Depression.png" id="469" name="IUTFHS" />
+  <familiar description="):" gfx="Collectibles_469_Depression.png" id="469" name="IUTFHS" />
   <familiar achievement="315" description="!IYEV AUA" gfx="Collectibles_470_Hushy.png" id="470" name="HAUA" />
   <familiar description="?SUNJ TUVA IUFB" gfx="Collectibles_471_LilMonstro.png" id="471" name="HMUKPN" />
   <familiar achievement="286" description="WUEUBHWV LKN WT LRC" gfx="Collectibles_472_KingBaby.png" id="472" name="LKN EUBHW" />
@@ -569,7 +569,7 @@
   <familiar achievement="394" name="WSSUJN GKM" gfx="Collectibles_544_PointyRib.png" description="WURHES INZ" id="544" />
   <active achievement="401" name="OHWNV RPX" gfx="Collectibles_545_BookOfTheDead.png" description="RCEV IN UKG" id="545" maxcharges="6" tags="book" />
   <passive achievement="400" name="TCT KA WGCYV" gfx="Collectibles_546_DadsRing.png" description="TCT KA UWFRC" id="546" />
-  <passive achievement="397" name="IHAURHD HFNXN" gfx="Collectibles_547_DivorcePapers.png" description="WUGNS VKGN + you feel empty" id="547" cache="firedelay" />
+  <passive achievement="397" name="IHAURHD HFNXN" gfx="Collectibles_547_DivorcePapers.png" description="HBEHR AHDRN VWT + WUGNS VKGN" id="547" cache="firedelay" />
   <familiar achievement="395" name="WXKV OMG" gfx="Collectibles_548_JawBone.png" description="!THCW LK" id="548" />
   <passive achievement="396" name="WUHRHRCA WUNMG" gfx="Collectibles_549_BrittleBones.png" description="CTUF KFV" id="549" />
 
@@ -838,7 +838,7 @@
   <trinket achievement="229" description="!KHPFVK INZV VZ" gfx="trinket_076_PokerChip.png" id="76" name="REUP PH'M" />
   <trinket description="!EJRWW" gfx="trinket_077_Blister.png" id="77" name="WHJUPKA" cache="tearflag" />
   <trinket description="CJRUN YEPTV INZ" gfx="trinket_078_SecondHand.png" id="78" name="VHBA SH" />
-  <trinket description="...VTKUKC VGUEW HBT" gfx="trinket_079_EndlessNameless.png" id="79" name="OA RXJ ,HPUXBHT" />
+  <trinket description="...VTKUKC GUEW HBT" gfx="trinket_079_EndlessNameless.png" id="79" name="OA RXJ ,HPUXBHT" />
   <trinket achievement="197" description="JF TUCH VFAJ OG" gfx="trinket_080_BlackFeather.png" id="80" name="VRUJA VMUB" cache="damage" />
   <trinket achievement="185" description="EZBK RUUHG" gfx="trinket_081_BlindRage.png" id="81" name="RUUHG OGZ" />
   <trinket description="?KZN RC AHDRN" gfx="trinket_082_GoldenHorseShoe.png" id="82" name="VCUVZ XUX WXRP" />
