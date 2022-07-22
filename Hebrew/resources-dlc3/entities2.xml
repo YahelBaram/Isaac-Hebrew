@@ -1856,7 +1856,7 @@
   <entity anm2path="073.001_Teratoma Small.anm2" baseHP="8" boss="1" bossID="33" champion="0" collisionDamage="2" collisionMass="20" collisionRadius="13" friction="1" id="73" name="Teratoma Small" numGridCollisionPoints="12" shadowSize="23" stageHP="0" variant="1" portrait="43" gridCollision="walls" hasFloorAlts="true">
     <gibs amount="6" blood="1" bone="0" eye="0" gut="1" large="0" worm="1" />
   </entity>
-  <entity anm2path="074.000_Blastocyst Big.anm2" baseHP="190" boss="1" bossID="16" champion="0" collisionDamage="2" collisionMass="30" collisionRadius="40" friction="1" id="74" name="IUE'MJ" numGridCollisionPoints="12" shadowSize="55" stageHP="0" variant="0" portrait="44">
+  <entity anm2path="074.000_Blastocyst Big.anm2" baseHP="190" boss="1" bossID="16" champion="0" collisionDamage="2" collisionMass="30" collisionRadius="40" friction="1" id="74" name="OSEUN RCUG" numGridCollisionPoints="12" shadowSize="55" stageHP="0" variant="0" portrait="44">
     <bestiary transform="0,0,1" anim="Attack" />
     <gibs amount="18" blood="1" bone="0" eye="0" gut="1" large="1" />
     <preload id="75" variant="0" />
