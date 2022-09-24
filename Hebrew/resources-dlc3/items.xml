@@ -399,7 +399,7 @@
   <passive achievement="202" description="LWUT VBAH ISGV ID" gfx="Collectibles_392_Zodiac.png" id="392" name="ETHSUZ" />
   <passive achievement="220" description="WUUNV KA VEHABV" gfx="Collectibles_393_SerpentsKiss.png" id="393" name="AJBV WEHAB" />
   <passive description="WUBUUFN WUGNS" gfx="Collectibles_394_Marked.png" id="394" name="INUXN" cache="firedelay range" />
-  <passive description="RZHHK WUGCY WUGNS" gfx="Collectibles_395_TechX.png" id="395" name="x UBFY" cache="all" />
+  <passive description="RZHHK WUGCY WUGNS" gfx="Collectibles_395_TechX.png" id="395" name="10 UBFY" cache="all" />
   <active description="RME LWUJ" gfx="Collectibles_396_VentricleRazor.png" id="396" name="OHJWBN CVK" />
   <passive description="WUYKAB WUGNS" gfx="Collectibles_397_TractorBeam.png" id="397" name="VRHRD IRE" cache="firedelay tearflag range shotspeed" />
   <passive description="!{UUHF WUHRH" gfx="Collectibles_398_GodsFlesh.png" id="398" name="KTV RAC" cache="tearcolor" tags="mushroom" />
@@ -433,7 +433,7 @@
   <passive description="?LAUJVN SJPN" gfx="Collectibles_425_NightLight.png" id="425" name="VKHK WRUBN" />
   <familiar description="...SGM KF HRJT CEUG" gfx="Collectibles_426_ObsessedFan.png" id="426" name="GCAUN {HRGN" tags="fly" />
   <active description="!OUUUC" gfx="Collectibles_427_MineCrafter.png" id="427" name="WURFN-HTBC" maxcharges="1" />
-  <passive description="JUBC AHDRN VWT" gfx="Collectibles_428_PJs.png" id="428" name="PJs" soulhearts="8" hearts="24" />
+  <passive description="JUBC AHDRN VWT" gfx="Collectibles_428_PJs.png" id="428" name="VN'DHP" soulhearts="8" hearts="24" />
   <passive cache="tearflag tearcolor" description="GCYN WUGNS" gfx="Collectibles_429_HeadOfTheKeeper.png" id="429" name="RNUAV KA UATR" />
   <familiar description="JHRM SHXJ" gfx="Collectibles_430_PapaFly.png" id="430" name="CUCZ TCT" tags="fly" />
   <familiar description="RCJ JCR" gfx="Collectibles_431_MultidimensionalBaby.png" id="431" name="RJTV SNHNVN EUBHW" />
@@ -485,7 +485,7 @@
   <active achievement="305" description="HKA IURJTV TMUNV" gfx="Collectibles_475_PlanC.png" id="475" name="'D WHBFUW" maxcharges="0" />
   <active achievement="296" description="?VHVH VZ VN" gfx="Collectibles_476_D1.png" id="476" name="1E" maxcharges="4" />
   <active achievement="295" description="VKFN" gfx="Collectibles_477_Void.png" id="477" name="EHR" maxcharges="6" />
-  <active description="!PUYX" gfx="Collectibles_478_Pause.png" id="478" name="RUMG" maxcharges="2" />
+  <active description="!RUMG" gfx="Collectibles_478_Pause.png" id="478" name="VHVAV" maxcharges="2" />
   <active achievement="318" description="!OHYHAFW XHNN" gfx="Collectibles_479_Smelter.png" id="479" name="}RMN" maxcharges="6" />
   <active description="!OHRCJ SUG DHAW" gfx="Collectibles_480_Compost.png" id="480" name="YXUPNUE" maxcharges="2" />
   <active description="901" gfx="Collectibles_481_Dataminer.png" id="481" name="GSHN VRUF" maxcharges="4" />
@@ -530,7 +530,7 @@
   <passive achievement="354" name="RUCA OSUN" description="!VKEW" id="514" gfx="Collectibles_514_BrokenModem.png" />
   <active achievement="350" description="!LKHCAC VPH }UYG" id="515" gfx="Collectibles_515_MysteryGift.png" name="IHRUWXN WBWN" />
   <active achievement="351" cache="familiars" name="VRYNN" gfx="Collectibles_516_Sprinkler.png" description=".RHYNN" id="516" maxcharges="4" />
-  <passive achievement="356" name="WURHVN WUMMP" gfx="Collectibles_517_FastBombs.png" description="Rapid bomb drops" id="517" bombs="7" />
+  <passive achievement="356" name="WURHVN WUMMP" gfx="Collectibles_517_FastBombs.png" description="VRHVN WUMMP WBNYV" id="517" bombs="7" />
   <familiar achievement="355" description="!?WUHVK KUFH VZ VN" gfx="Collectibles_518_BuddyBox.png" id="518" name="VXPUEC RCJ" />
   <familiar achievement="357" description="}RYUN friend" gfx="Collectibles_519_LilDelirium.png" id="519" name="Lil Delirium" />
 
