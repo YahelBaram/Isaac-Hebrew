@@ -1,17 +1,17 @@
 <playerforms>
-	<form id="0" name="HPTD_HUBHA" costume="5" tags="guppy" cache="flying tearflag" />
-	<form id="1" name="CUCZ-KGC_HUBHA" costume="3" tags="fly" cache="flying" />
-	<form id="2" name="DCB_HUBHA" costume="20" tags="mushroom" />
-	<form id="3" name="}RA_HUBHA" costume="21" tags="angel" cache="flying" />
-	<form id="4" name="CUC_HUBHA" costume="22" tags="bob" />
-	<form id="5" name="RUFN_HUBHA" costume="23" tags="syringe" cache="speed damage" />
-	<form id="6" name="TNT-IF_HUBHA" costume="24" tags="mom" />
-	<form id="7" name="OHRCUJN_HUBHA" costume="25" tags="baby" cache="firedelay damage" />
-	<form id="8" name="IWHUUK_HUBHA" costume="26" tags="devil" cache="flying" />
-	<form id="9" name="TRJ_HUBHA" costume="27" tags="poop" />
-	<form id="10" name="OHRPX-WGKUW_HUBHA" costume="37" tags="book" />
-	<form id="11" name="RDUCN_HUBHA" costume="38" />
-	<form id="12" name="IUAHCFG_HUBHA" costume="39" tags="spider" cache="familiars" />
-	<form id="13" name="GUERK_HUBHA" />
-	<!-- <form id="14" name="UNUSED_Transform_Flight" /> -->
+	<form id="0" name="יפאג" costume="5" tags="guppy" cache="flying tearflag" />
+	<form id="1" name="בובז לעב" costume="3" tags="fly" cache="flying" />
+	<form id="2" name="הירטפ" costume="20" tags="mushroom" />
+	<form id="3" name="ףרש" costume="21" tags="angel" cache="flying" />
+	<form id="4" name="בוב" costume="22" tags="bob" />
+	<form id="5" name="רוכמ" costume="23" tags="syringe" cache="speed damage" />
+	<form id="6" name="אמא ןכ" costume="24" tags="mom" />
+	<form id="7" name="םיבלושמ" costume="25" tags="baby" cache="firedelay damage" />
+	<form id="8" name="ןתייוול" costume="26" tags="devil" cache="flying" />
+	<form id="9" name="ארח" costume="27" tags="poop" />
+	<form id="10" name="םירפס תעלות" costume="37" tags="book" />
+	<form id="11" name="רגובמ" costume="38" />
+	<form id="12" name="םישיבכא רוג" costume="39" tags="spider" cache="familiars" />
+	<form id="13" name="עוקרל" />
+	<!-- <form id="14" name="#UNUSED_Transform_Flight" /> -->
 </playerforms>
