@@ -4901,7 +4901,7 @@
         <bestiary anim="Idle" transform="0,0,1"/>
         <gibs amount="10" blood="1" bone="1" eye="1" gut="1" large="0"/>
     </entity>
-    <entity anm2path="921.000_clutch.anm2" baseHP="500" boss="1" bossID="102" champion="0" collisionDamage="1" collisionMass="30" collisionRadius="30" friction="1" gridCollision="none" id="921" name="דימצמ" numGridCollisionPoints="12" portrait="137" shadowSize="22" stageHP="0" tags="ghost nodelirium" variant="0">
+    <entity anm2path="921.000_clutch.anm2" baseHP="500" boss="1" bossID="102" champion="0" collisionDamage="1" collisionMass="30" collisionRadius="30" friction="1" gridCollision="none" id="921" name="רגוד" numGridCollisionPoints="12" portrait="137" shadowSize="22" stageHP="0" tags="ghost nodelirium" variant="0">
         <bestiary anm2path="921.000_clutch (bestiary).anm2" anim="Idle" transform="0,0,1"/>
         <gibs amount="10" blood="0" bone="0" eye="0" gut="0" large="1"/>
     </entity>
