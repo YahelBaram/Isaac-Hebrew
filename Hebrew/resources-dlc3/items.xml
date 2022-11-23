@@ -18,7 +18,7 @@
 	<passive description="תוחתפמ  99" gfx="Collectibles_017_SkeletonKey.png" id="17" keys="99" name="דלש  חתפמ" />
 	<passive coins="100" description="$$$" gfx="Collectibles_018_ADollar.png" id="18" name="רלוד" />
 	<passive bombs="10" description="תוצצפ  10" gfx="Collectibles_019_Boom.png" id="19" name="!םוב" />
-	<passive achievement="8" cache="flying" description="הטמל  ןאכ  םיפצ  ונלוכ" gfx="Collectibles_020_Transcendence.png" id="20" name="תובגשנE" />
+	<passive achievement="8" cache="flying" description=",,,הטמל  ןאכ  םיפצ  ונלוכ" gfx="Collectibles_020_Transcendence.png" id="20" name="תובגשנE" />
 	<passive description="ברק  ףוסה" gfx="Collectibles_021_TheCompass.png" id="21" name="ןפצמה" />
 	<passive description="םייח  הלעמ" gfx="Collectibles_022_Lunch.png" hearts="4" id="22" maxhearts="2" name="םיירהצ  תחורא" />
 	<passive description="םייח  הלעמ" gfx="Collectibles_023_Dinner.png" hearts="4" id="23" maxhearts="2" name="ברע  תחורא" />
@@ -54,7 +54,7 @@
 	<passive description="םיצפח  וילא  ךשומ" gfx="Collectibles_053_Magneto.png" id="53" name="וטנגמ" />
 	<passive description="ירמגל  הרורב  הפמה" gfx="Collectibles_054_TreasureMap.png" id="54" name="רצוא  תפמ" />
 	<passive description="ךלש  שארה  לש  הרוחאמב  ןיע" gfx="Collectibles_055_MomsEye.png" id="55" name="אמא  לש  ןיעה" />
-	<active description="ספוא" gfx="Collectibles_056_LemonMishap.png" id="56" maxcharges="2" name="ןומיל  תירקת" />
+	<active description=",,,ספוא" gfx="Collectibles_056_LemonMishap.png" id="56" maxcharges="2" name="ןומיל  תירקת" />
 	<familiar description="הפיקת  בובז" gfx="Collectibles_057_DistantAdmiration.png" id="57" name="תקחורמ  הצרעה" />
 	<active cooldown="300" description="םיללצה  רפס" gfx="Collectibles_058_BookOfShadows.png" id="58" maxcharges="3" name="םיללצה  רפס" />
 	<passive cache="damage" description="תינמז  קזנ  תאלעה" gfx="Collectibles_034_TheBookOfBelial.png" id="59" maxcharges="3" name="לעילב  רפס" hidden="true" />
@@ -125,7 +125,7 @@
 	<active description="המולעת  וז" gfx="Collectibles_124_DeadSeaScrolls.png" id="124" maxcharges="2" name="חלמה  םי  תוליגמ" />
 	<passive bombs="5" description="ףוסה  דע  םירבח" gfx="Collectibles_125_BobbyBomb.png" id="125" name="ץצפה  ץיפ" />
 	<active achievement="44" cache="damage" description="ילש  באכה  תא  ושיגרת" gfx="Collectibles_126_RazorBlade.png" id="126" maxcharges="0" name="בהל" />
-	<active achievement="48" description="רכוז  אל  ינא" gfx="Collectibles_127_ForgetMeNow.png" id="127" maxcharges="0" name="וישכע  יתוא  חכש" />
+	<active achievement="48" description=",,,רכוז  אל  ינא" gfx="Collectibles_127_ForgetMeNow.png" id="127" maxcharges="0" name="וישכע  יתוא  חכש" />
 	<familiar description="הפיקת  בובז" gfx="Collectibles_128_ForeverAlone.png" id="128" name="דעל  דדב" />
 	<passive cache="speed" description="םייח  הלעמ" gfx="Collectibles_129_BucketofLard.png" hearts="4" id="129" maxhearts="4" name="ןמוש  ילד" />
 	<active cache="flying speed" description="קוניז  תפקתמ  +  הפועת" gfx="Collectibles_130_APony.png" id="130" maxcharges="2" name="ינופ" passivecache="true" addcostumeonpickup="true" />
@@ -173,7 +173,7 @@
 	<familiar achievement="53" description="ילע  ןגמ  ילש  לרוגה" gfx="Collectibles_172_SacrificialDagger.png" id="172" name="תלכאמ" />
 	<passive description="ךרובמ  שיגרמ  התא" gfx="Collectibles_173_Mitre.png" id="173" name="תפנצמ" />
 	<familiar description="יארקא  רבח" gfx="Collectibles_174_RainbowBaby.png" id="174" name="ןנעב-תשק  קונית" />
-	<active achievement="58" description="תותלדה  לכ  תא  חתופ" gfx="Collectibles_175_DadsKey.png" id="175" maxcharges="2" name="אבא  לש  חתפמה" />
+	<active achievement="58" description=",,,תותלדה  לכ  תא  חתופ" gfx="Collectibles_175_DadsKey.png" id="175" maxcharges="2" name="אבא  לש  חתפמה" />
 	<passive cache="shotspeed" description="םייח  הלעמ" gfx="Collectibles_176_StemCells.png" hearts="4" id="176" maxhearts="2" name="עזג  יאת" />
 	<active cooldown="0" description="24/7  םירומיה" gfx="Collectibles_177_PortableSlot.png" id="177" maxcharges="0" name="דיינ  ץירח" shopprice="10" />
 	<familiar description="!שאלפס" gfx="Collectibles_178_HolyWater.png" id="178" name="םישודק  םימ" />
@@ -193,7 +193,7 @@
 	<active cache="tearflag tearcolor range" description="תוינמז  העדות  תוירי" gfx="Collectibles_192_TelepathyForDummies.png" id="192" maxcharges="2" name="םימוטמוטל  היתפלט" />
 	<passive cache="damage" description="םייח  +  קזנ  הלעמ" gfx="Collectibles_193_Meat.png" hearts="4" id="193" maxhearts="2" name="!רשב" />
 	<passive cache="shotspeed" description="תוירי  תוריהמ  הלעמ" gfx="Collectibles_194_Magic8Ball.png" id="194" name="םוסקה  8  רפסמ  רודכ" />
-	<passive description="?הז  לכ  המ" gfx="Collectibles_195_MomsCoinPurse.png" id="195" name="אמא  לש  קנראה" />
+	<passive description="?,,,הז  לכ  המ" gfx="Collectibles_195_MomsCoinPurse.png" id="195" name="אמא  לש  קנראה" />
 	<passive cache="firedelay" description="תועמד  הלעמ" gfx="Collectibles_196_Squeezy.png" id="196" name="טוחס" />
 	<passive cache="damage range" description="חווט  +  קזנ  הלעמ" gfx="Collectibles_197_JesusJuice.png" id="197" name="ושי  ץימ" />
 	<passive description="םירבד" gfx="Collectibles_198_Box.png" id="198" name="אספוק" />
@@ -294,7 +294,7 @@
 	<active achievement="137" description="תקלוד  הבהלה" gfx="collectibles_289_redcandle.png" id="289" maxcharges="110" name="םודא  רנ" chargetype="timed" />
 	<active description="ךלש  םייחה  תא  תרמוש" gfx="collectibles_290_thejar.png" id="290" maxcharges="0" name="תנצנצה" shopprice="10" />
 	<active description=",,," gfx="collectibles_291_flush.png" id="291" maxcharges="4" name="!אלמ  לכימ" />
-	<active achievement="126" description="?ריחמ  הזיאב  ךא  ימעפ  בר  עשר" devilprice="2" gfx="collectibles_292_satanicbible.png" id="292" maxcharges="6" name='ינטשה  ך"נתה' />
+	<active achievement="126" description="?ריחמ הזיאב ךא ,,,ימעפ בר עשר " devilprice="2" gfx="collectibles_292_satanicbible.png" id="292" maxcharges="6" name='ינטשה  ך"נתה' />
 	<active achievement="143" description="סופמרק  לש  ומעז" gfx="collectibles_293_headofkrampus.png" id="293" maxcharges="3" name="סופמרק  לש  שארה" />
 	<active achievement="145" description="ימעפ  בר  ףדה" gfx="collectibles_294_butterbean.png" id="294" maxcharges="90" name="האמח  תיעועש" chargetype="timed" />
 	<active description="קחשל  ידכ  םלש" gfx="collectibles_295_magicfingers.png" id="295" maxcharges="0" name="תומוסק  תועבצא" shopprice="10" />
@@ -356,7 +356,7 @@
 	<active achievement="244" description="עבטמ  לטה" gfx="Collectibles_349_WoodenNickel.png" id="349" name="ץעמ  עבטמ" shopprice="10" maxcharges="1" />
 	<passive description="םינומהל  לער" gfx="Collectibles_350_ToxicShock.png" id="350" name="ילער  םלה" cache="color" />
 	<active description="!םוצע  ץולפ" gfx="Collectibles_351_MegaBean.png" id="351" name="קנע  תיעועש" maxcharges="3" />
-	<active description="ןידע  היה" gfx="Collectibles_352_GlassCannon.png" id="352" name="תיכוכז  חתות" maxcharges="110" chargetype="timed" />
+	<active description=",,,ןידע  היה" gfx="Collectibles_352_GlassCannon.png" id="352" name="תיכוכז  חתות" maxcharges="110" chargetype="timed" />
 	<passive description="ץיפנ  ץוציפ" gfx="Collectibles_353_BomberBoy.png" id="353" name="ץיצפמ  דלי" bombs="5" />
 	<passive description="סרפה  תא  עלבת  לא" gfx="Collectibles_354_CrackJacks.png" id="354" name="םיבולע  לש  סקלפנרוק" maxhearts="2" hearts="4" />
 	<passive description="לזמ  +  חווט  הלעמ" gfx="Collectibles_355_MomsPearls.png" id="355" name="אמא  לש  םינינפה" cache="luck range" soulhearts="2" />
@@ -382,7 +382,7 @@
 	<passive description="!עבוכ  הלחא" gfx="Collectibles_375_HostHat.png" id="375" name="חראמ  עבוכ" />
 	<passive description="!תורמגנ  אל  תויונח" gfx="Collectibles_376_Restock.png" id="376" name="יאלמ  שודיח" />
 	<passive description="םישיבכע  תבהא" gfx="Collectibles_377_BurstingSack.png" id="377" name="ץרפתמ  קש" />
-	<passive description="וא  וא" gfx="Collectibles_378_NumberTwo.png" id="378" name="2  סמ" />
+	<passive description=",,,וא  וא" gfx="Collectibles_378_NumberTwo.png" id="378" name="2  סמ" />
 	<passive description="הבחר  הירי" gfx="Collectibles_379_PupulaDuplex.png" id="379" name="לופכ  דימלת" cache="tearflag" />
 	<passive description="רבדמ  ףסכה" gfx="Collectibles_380_PayToPlay.png" id="380" name="קחשל  ליבשב  םלש" coins="5" />
 	<passive achievement="188" description="ריהזמ  דיתע" gfx="Collectibles_381_EdensBlessing.png" id="381" name="ןדע  לש  הכרבה" cache="firedelay" />
@@ -431,7 +431,7 @@
 	<passive description="ימצעמ  יילע  ןגה" gfx="Collectibles_423_CircleOfProtection.png" id="423" name="הנגהה  לגעמ" />
 	<passive description="!םיקש  דוע" gfx="Collectibles_424_SackHead.png" id="424" name="קש  שאר" />
 	<passive description="?ךשוחהמ  דחפמ" gfx="Collectibles_425_NightLight.png" id="425" name="הליל  תרונמ" />
-	<familiar description="דעצ  לכ  ירחא  בקוע" gfx="Collectibles_426_ObsessedFan.png" id="426" name="עבשומ  ץירעמ" />
+	<familiar description=",,,דעצ  לכ  ירחא  בקוע" gfx="Collectibles_426_ObsessedFan.png" id="426" name="עבשומ  ץירעמ" />
 	<active description="!םוווב" gfx="Collectibles_427_MineCrafter.png" id="427" name="תורכמ-יאנב" maxcharges="1" />
 	<passive description="חונב  שיגרמ  התא" gfx="Collectibles_428_PJs.png" id="428" name="המ'גיפ" soulhearts="8" hearts="24" />
 	<passive cache="tearflag tearcolor" description="!עבטמ  תועמד" gfx="Collectibles_429_HeadOfTheKeeper.png" id="429" name="רמושה  לש  ושאר" />
@@ -441,9 +441,9 @@
 	<familiar achievement="195" description="!יייילללש  לצהו  !ינא" gfx="Collectibles_433_MyShadow.png" id="433" name="ילש  לצה" />
 	<active description="?םלוכ  תא  סופתא  ינא" gfx="Collectibles_434_JarOfFlies.png" id="434" name="םיבובזה  תנצנצ" maxcharges="0" />
 	<familiar description="ינוויכ-עברא  רבח" gfx="Collectibles_435_LilLoki.png" id="435" name="ןטקה  יקול" />
-	<familiar description="וילא  הכבת  לא" gfx="Collectibles_436_Milk.png" id="436" name="!בלח" cache="firedelay" />
+	<familiar description=",,,וילא  הכבת  לא" gfx="Collectibles_436_Milk.png" id="436" name="!בלח" cache="firedelay" />
 	<active description="םילומגתה  תא  שדחמ  לירגהל" gfx="Collectibles_437_D7.png" id="437" name="7ק" maxcharges="3" />
-	<passive description="תונורכז" gfx="Collectibles_438_Binky.png" id="438" name="יצצ" cache="firedelay size" soulhearts="2" />
+	<passive description=",,,תונורכז" gfx="Collectibles_438_Binky.png" id="438" name="יצצ" cache="firedelay size" soulhearts="2" />
 	<active description="?םינפב  שי  המ" gfx="Collectibles_439_MomsBox.png" id="439" name="אמא  לש  הספוקה" maxcharges="4" cache="all" passivecache="true" />
 	<passive achievement="232" description="ריבד  לש  הילכב  םינבאה" gfx="Collectibles_440_KidneyStone.png" id="440" name="הילכב  םינבא" cache="range speed firedelay" />
 	<active achievement="276" description="רזייל  תפישנ" gfx="collectibles_441_megasatansbreath.png" id="441" name="המוצע  תוצרפתה" maxcharges="12" />
@@ -456,13 +456,13 @@
 	<passive description="הפ  לבה" gfx="Collectibles_446_DeadTooth.png" id="446" name="התמ  ןש" />
 	<passive description="עוקתל  יל  םרוג  תוכבל" gfx="Collectibles_447_LingerBean.png" id="447" name="שמ  תיעועש" />
 	<passive description="!םייעמו  םד" gfx="Collectibles_448_ShardOfGlass.png" id="448" name="תיכוכז  רבש" />
-	<passive description="דרגמ  הז" gfx="Collectibles_449_MetalPlate.png" id="449" name="תכתמ  תטלפ" soulhearts="2" />
+	<passive description=",,,דרגמ  הז" gfx="Collectibles_449_MetalPlate.png" id="449" name="תכתמ  תטלפ" soulhearts="2" />
 	<passive achievement="308" description="!בהז  תועמד" gfx="Collectibles_450_EyeOfGreed.png" id="450" name="ןדמחה  לש  וניע" />
 	<passive description="דיתעה  תא  האור  ינא" gfx="Collectibles_451_TarotCloth.png" id="451" name="טוראט  חטשמ" />
-	<passive description="ףלוד  ינא" gfx="Collectibles_452_VaricoseVeins.png" id="452" name="םיבחרומ  םידירו" />
+	<passive description=",,,ףלוד  ינא" gfx="Collectibles_452_VaricoseVeins.png" id="452" name="םיבחרומ  םידירו" />
 	<passive achievement="291" description="!םצע  תועמד" gfx="Collectibles_453_CompoundFracture.png" id="453" name="בכרומ  רבש" cache="range tearflag" />
 	<passive description="!יתוא  קיזחת" gfx="Collectibles_454_Polydactyly.png" id="454" name="יטקדילופ" />
-	<passive achievement="307" description="הז  תא  רכוז  ינא" gfx="Collectibles_455_DadsLostCoin.png" id="455" name="אבא  לש  דובאה  עבטמה" cache="range" />
+	<passive achievement="307" description=",,,הז  תא  רכוז  ינא" gfx="Collectibles_455_DadsLostCoin.png" id="455" name="אבא  לש  דובאה  עבטמה" cache="range" />
 	<passive description="םייח  הלעמ" gfx="Collectibles_456_MoldyBread.png" id="456" name="תוצח  ףיטח" hearts="4" maxhearts="2" />
 	<passive description="!השק  שאר" gfx="Collectibles_457_Conehead.png" id="457" name="סונוק  שאר" soulhearts="2" />
 	<passive description="?םש  אצמנ  המ" gfx="Collectibles_458_BellyButton.png" id="458" name="קיפופ" />
@@ -494,8 +494,8 @@
 	<active description="!האמח  תיעועש  אל  הזש  ןימאמ  אל  ינא" gfx="Collectibles_484_WaitWhat.png" id="484" name="?המ  עגר" maxcharges="300" chargetype="timed" />
 	
 	<active achievement="294" description="50/50" gfx="collectibles_485_crookedpenny.png" id="485" name="םוקע  עבטמ" maxcharges="4" />
-	<active achievement="288" description="שידא  שיגרמ  ינא" gfx="collectibles_486_dullrazor.png" id="486" name="ההק  בהל" shopprice="10" maxcharges="2" />
-	<active description="רשב  ץוצמק" gfx="collectibles_487_potatopeeler.png" id="487" name="םידופת  ןפלוק" />
+	<active achievement="288" description=",,,שידא  שיגרמ  ינא" gfx="collectibles_486_dullrazor.png" id="486" name="ההק  בהל" shopprice="10" maxcharges="2" />
+	<active description=",,,רשב  ץוצמק" gfx="collectibles_487_potatopeeler.png" id="487" name="םידופת  ןפלוק" />
 	<active achievement="303" description="עבצאב  שכשכמ" gfx="collectibles_488_metronome.png" id="488" name="םונורטמ" maxcharges="2" cache="all" />
 	<active achievement="282" description="חצנל  לירגהל" gfx="collectibles_489_dinfinity.png" id="489" name="ףוסניא  ק" maxcharges="2" />
 	<active achievement="289" description=",,," gfx="collectibles_490_edenssoul.png" id="490" name="ןדע  לש  המשנה" maxcharges="12" initcharge="0" />
@@ -515,7 +515,7 @@
 	<passive description="ריר  תוירי" gfx="Collectibles_502_LargeZit.png" id="502" name="קנע  ןועצפ" />
 	<passive description="!עדמ" gfx="Collectibles_503_LittleHorn.png" id="503" name="הנטק  ןרק" />
 	<active achievement="316" description="ירבח  בובז" gfx="Collectibles_504_BrownNugget.png" id="504" name="םוח  שוג" cache="familiars" maxcharges="250" chargetype="timed" />
-	<passive description="םתוא  סופתל  בייח" gfx="Collectibles_505_PokeGo.png" id="505" name="וג  יקופ" />
+	<passive description=",,,םתוא  סופתל  בייח" gfx="Collectibles_505_PokeGo.png" id="505" name="וג  יקופ" />
 	<passive description="!ךלש  בגה  לע  רומשת" gfx="Collectibles_506_Backstabber.png" id="506" name="דגוב" cache="tearflag" />
 	<active description="!םד  דוע" gfx="Collectibles_507_SharpStraw.png" id="507" name="דח  שק" maxcharges="300" chargetype="timed"/>
 	<familiar description="!דח  הז" gfx="Collectibles_508_MomsRazor.png" id="508" name="אמא  לש  חוליגה  ןיכס" />
@@ -550,7 +550,7 @@
 	
 	<!-- Booster Pack #4 -->
 	<passive achievement="376" description="רותב  אבה  אל  התאש  הווקת  קר" gfx="Collectibles_530_DeathsList.png" name="תוומה  תמישר" id="530" />
-	<passive achievement="377" cache="weapon firedelay damage tearcolor range" description="םד  תועמד" gfx="Collectibles_531_Haemolacria.png" name="םודא  האור  ינא" id="531" />
+	<passive achievement="377" cache="weapon firedelay damage tearcolor range" description=",,,םודא האור ינא" gfx="Collectibles_531_Haemolacria.png" name="םד תועמד" id="531" />
 	<passive achievement="378" cache="tearflag" description="!ןתוא  ליכאת" gfx="Collectibles_532_Lachryphagy.png" name="תואמצ  תועמד" id="532" />
 	<passive achievement="380" cache="tearflag" description="ביואה  תא  ץחמ" gfx="Collectibles_533_Trisagion.png" name="סויגא" id="533" />
 	<passive achievement="379" description="ןעטנ  טירפל  ףסונ  םוקמ" gfx="collectibles_534_Schoolbag.png" name="טוקלי" id="534" />
@@ -585,7 +585,7 @@
 	<active		id="557"	gfx="Collectibles_557_FortuneCookie.png" name="לזמ  תייגוע" description="םיימעפ  בר  תולזמ" maxcharges="2" />
 	<passive	id="558"	gfx="Collectibles_558_EyeSore.png" name="רעוכמ  הארמ" description="םייניע  דוע" />
 	<passive	id="559"	gfx="Collectibles_559_120Volt.png" name="טלוו  240" description="!פאז" />
-	<passive	id="560"	gfx="Collectibles_560_ItHurts.png" name="באוכ  הז" description="אל  הז  אל" />
+	<passive	id="560"	gfx="Collectibles_560_ItHurts.png" name="באוכ  הז" description=",,,אל  הז  אל" />
 	<passive	id="561"	gfx="Collectibles_561_AlmondMilk.png" name="םידקש  בלח" description="יזוגא  שיגרמ  התא  +  תועמד  הלעמ  +  קזנ  דירומ" cache="damage firedelay tearcolor" />
 	<passive	id="562"	achievement="433" gfx="Collectibles_562_RockBottom.png" name="םוהתה  דרומ" description="תולעל  קר  רשפא  םשמ" cache="all" />
 	<passive	id="563"	gfx="Collectibles_563_EnigmaBombs.png" name="הוואג  תוצצפ" description="תוצצפ  5  +  תיארקא  תוצרפתה" bombs="5" />
@@ -602,7 +602,7 @@
 	<passive	id="574"	gfx="Collectibles_574_Monstrance.png" name="סנרטסנומ" description="רהטמ  רוא" />
 	<familiar	id="575"	gfx="Collectibles_575_TheIntruder.png" name="ץרופה" description="ינשלופ  רבח" />
 	<passive	id="576"	achievement="517" gfx="Collectibles_576_DirtyMind.png" name="תכלכולמ  הבישח" description="םיפנוטמ  םירבח" />
-	<active		id="577"	achievement="432" gfx="Collectibles_577_Damocles.png" name="סלקומד  ברח" description="?ריחמ  הזיאב  ךא  ךלמ  לש  ולרוג" maxcharges="0" devilprice="2" cache="familiars" />
+	<active		id="577"	achievement="432" gfx="Collectibles_577_Damocles.png" name="סלקומד  ברח" description="?ריחמ הזיאב ךא ,,,ךלמ לש ולרוג " maxcharges="0" devilprice="2" cache="familiars" />
 	<active		id="578"	gfx="Collectibles_578_FreeLemonade.png" name="םניחב  הדנומיל" description="!גוגחל  ןמז" maxcharges="4" />
 	<passive	id="579"	achievement="520" gfx="Collectibles_579_SpiritSword.png" name="חור  ברח" description="יהולא  בהל" cache="weapon damage firedelay" special="true" devilprice="2" />
 	<active		id="580"	achievement="415" gfx="Collectibles_580_SecretKey.png" name="םודא  חתפמ" description="רחאה  דצה  תא  רוקחל" maxcharges="4" />
@@ -705,7 +705,7 @@
 	<passive	id="677"	achievement="457" gfx="Collectibles_677_AstralProjection.png" name="תיפוג-ץוח  הנרקה" description="!טלחהב  תיתימא  תיפוג  ץוח  היווח" addcostumeonpickup="false" cache="flying tearflag tearcolor" />
 	<passive	id="678"	achievement="463" gfx="Collectibles_678_CSection.png" name="ירסיק  חותינ" description="רבוע  תוירי" cache="weapon firedelay damage tearcolor range" />
 	<familiar	id="679"	achievement="455" gfx="Collectibles_679_LilAbaddon.png" name="ןטק  ןודבא" description="ימוהת  רבח" devilprice="1" />
-	<passive	id="680"	achievement="449" gfx="Collectibles_680_MontezumasRevenge.png" name="המוזטנומ  תמקנ" description="אל  יוא" />
+	<passive	id="680"	achievement="449" gfx="Collectibles_680_MontezumasRevenge.png" name="המוזטנומ  תמקנ" description=",,,אל  יוא" />
 	<familiar	id="681"	achievement="466" gfx="Collectibles_681_LilPortal.png" name="ןורעש" description="בער  אוה" />
 	<familiar	id="682"	achievement="467" gfx="Collectibles_682_WormFriend.png" name="תעלות  רבח" description="קיבד  רבח" />
 	<passive	id="683"	achievement="468" gfx="Collectibles_683_BoneSpurs.png" name="םצע  ןברוד" description="ךיביוא  תא  רובש" />
@@ -829,19 +829,19 @@
 	<trinket description="פאלב  פולב  פילב" gfx="trinket_064_RainbowWorm.png" id="64" name="תשק  תעלות" cache="range shotspeed tearflag firedelay"/>
 	<trinket description="!פוווווווווווווווולפ" gfx="trinket_065_TapeWorm.png" id="65" name="העוצר  תעלות" cache="range" />
 	<trinket description="טפפ" gfx="trinket_066_LazyWorm.png" id="66" name="הלצע  תעלות" cache="range shotspeed" />
-	<trinket achievement="196" description="לש  גוס  ללוקמ  שיגרמ  התא" gfx="trinket_067_CrackedDice.png" id="67" name="הרובש  היבוק" />
+	<trinket achievement="196" description=",,,לש  גוס  ללוקמ  שיגרמ  התא" gfx="trinket_067_CrackedDice.png" id="67" name="הרובש  היבוק" />
 	<trinket description="ךשומ  אוה" gfx="trinket_068_SuperMagnet.png" id="68" name="לע  טנגמ" />
 	<trinket description="יוהד  שיגרמ  התא" gfx="trinket_069_FadedPolaroid.png" id="69" name="יוהד  דיוראלופ" />
-	<trinket description="םיעט  ,דרגמ" gfx="trinket_070_Louse.png" id="70" name="הניכ" />
+	<trinket description=",,,םיעט  ,דרגמ" gfx="trinket_070_Louse.png" id="70" name="הניכ" />
 	<trinket description="תודירטמ  תוצצפ" gfx="trinket_071_BobsBladder.png" id="71" name="בוב  לש  תיחופלשה" />
 	<trinket description="הנטק  הניעט" gfx="trinket_072_WatchBattery.png" id="72" name="ןועש  לש  הללוס" />
 	<trinket description="!פופ  !פופ" gfx="trinket_073_BlastingCap.png" id="73" name="יוסיכ  ץוציפ" />
-	<trinket achievement="230" description="הלולח  השיגרמ  תחתמ  המדאה" gfx="trinket_074_StudFinder.png" id="74" name="םיצענה  יאלג" />
+	<trinket achievement="230" description=",,,הלולח  השיגרמ  תחתמ  המדאה" gfx="trinket_074_StudFinder.png" id="74" name="םיצענה  יאלג" />
 	<trinket description="אצמנ  אל  טקפא" gfx="trinket_075_Error.png" id="75" name="האיגש" cache="all" />
 	<trinket achievement="229" description="!חוורה  תא  ליפכהל  ןמז" gfx="trinket_076_PokerChip.png" id="76" name="רקופ  פי'צ" />
 	<trinket description="!קחרתת" gfx="trinket_077_Blister.png" id="77" name="תיחופלש" cache="tearflag" />
 	<trinket description="בחרומ  טקפאה  ןמז" gfx="trinket_078_SecondHand.png" id="78" name="הינש  די" />
-	<trinket description="האלולב  העוקת  ינא" gfx="trinket_079_EndlessNameless.png" id="79" name="םשה  רסח  לובגה  רסח" />
+	<trinket description=",,,האלולב  העוקת  ינא" gfx="trinket_079_EndlessNameless.png" id="79" name="םשה  רסח  לובגה  רסח" />
 	<trinket achievement="197" description="חכ  אובי  הכשח  םע" gfx="trinket_080_BlackFeather.png" id="80" name="הרוחש  הצונ" cache="damage" />
 	<trinket achievement="185" description="קזנל  רוויע" gfx="trinket_081_BlindRage.png" id="81" name="רוויע  םעז" />
 	<trinket description="?לזמ  רב  שיגרמ" gfx="trinket_082_GoldenHorseShoe.png" id="82" name="הבוהז  סוס  תסרפ" />
@@ -850,10 +850,10 @@
 	<trinket achievement="204" description="ינדמח  שיגרמ" gfx="trinket_084_ribofgreed.png" id="84" name="תונדמחה  תלצ" />
 	<trinket achievement="239" description="המרק  הלעמ" gfx="trinket_085_karma.png" id="85" name="המרק" />
 	
-	<trinket description="זז  יקקה" gfx="Trinket_086_LilLarva.png" id="86" name="ריעז  לחז" />
+	<trinket description=",,,זז  יקקה" gfx="Trinket_086_LilLarva.png" id="86" name="ריעז  לחז" />
 	<trinket description="התבהא  תא  שיגרמ  התא" gfx="Trinket_087_MomsLocket.png" id="87" name="אמא  לש  ןוילתה" />
 	<trinket description="!בוש  אל" gfx="Trinket_088_NO.png" id="88" name="!אל" />
-	<trinket description="םיבורק  ךירבח  תא  ריאשמ" gfx="Trinket_089_ChildLeash.png" id="89" name="דליל  העוצר" />
+	<trinket description=",,,םיבורק  ךירבח  תא  ריאשמ" gfx="Trinket_089_ChildLeash.png" id="89" name="דליל  העוצר" />
 	<trinket description="!םובקופ" gfx="Trinket_090_BrownCap.png" id="90" name="םוח  יוסיכ" />
 	
 	<!-- Afterbirth+ Trinkets -->
@@ -863,8 +863,8 @@
 	<trinket description="!ןיחצמ  הז  םג" gfx="Trinket_094_FishTail.png" id="94" name="גד  לש  בנז" />
 	<trinket description="תמ  הארנ  הז" gfx="Trinket_095_BlackTooth.png" id="95" name="הרוחש  ןש" />
 	<trinket description="!פופ  פופ" gfx="Trinket_096_OuroborosWorm.png" id="96" name="סורובורוא  תעלות" cache="tearflag range firedelay" />
-	<trinket description="הלוח" gfx="Trinket_097_Tonsil.png" id="97" name="דקש" />
-	<trinket description="םוסק  הארנ" gfx="Trinket_098_NoseGoblin.png" id="98" name="ןילבוג  לש  ףא" />
+	<trinket description=",,,הלוח" gfx="Trinket_097_Tonsil.png" id="97" name="דקש" />
+	<trinket description=",,,םוסק  הארנ" gfx="Trinket_098_NoseGoblin.png" id="98" name="ןילבוג  לש  ףא" />
 	<trinket description="!גניוב" gfx="Trinket_099_SuperBall.png" id="99" name="לע  רודכ" />
 	<trinket description="חכ  ךירצ  הז" gfx="Trinket_100_VibrantBulb.png" id="100" name="תצרמנ  הרונ" cache="all" />
 	<trinket description="רובש  הזש  בשוח  ינא" gfx="Trinket_101_DimBulb.png" id="101" name="תמעמועמ  הרונ" cache="all" />
@@ -877,8 +877,8 @@
 	<trinket achievement="302" description="יתוא  ןקור" gfx="trinket_107_crowheart.png" id="107" name="ברוע  לש  בל" />
 	<trinket description="!חוציפל  השק  זוגא  הז" gfx="trinket_108_walnut.png" id="108" name="ךלמ  זוגא" />
 	<trinket description="!עוקת" gfx="trinket_109_ducttape.png" id="109" name="קבד  ריינ" />
-	<trinket achievement="284" description="לזמ  רב  שיגרמ" gfx="trinket_110_silverdollar.png" id="110" name="ףוסכ  רלוד" />
-	<trinket achievement="287" description="םד  ףטונ  הז" gfx="trinket_111_bloodycrown.png" id="111" name="םמדמ  רתכ" />
+	<trinket achievement="284" description=",,,לזמ  רב  שיגרמ" gfx="trinket_110_silverdollar.png" id="110" name="ףוסכ  רלוד" />
+	<trinket achievement="287" description=",,,םד  ףטונ  הז" gfx="trinket_111_bloodycrown.png" id="111" name="םמדמ  רתכ" />
 	<trinket description=",,," gfx="trinket_112_paytowin.png" id="112" name="חצנל  ידכ  םלש" />	
 	
 	<trinket achievement="310" description="םעז  איבמ  ינא" gfx="trinket_113_LocustOfWrath.png" id="113" name="המחלמ  לש  הברא" />	
@@ -886,7 +886,7 @@
 	<trinket achievement="312" description="בער  איבמ  ינא" gfx="trinket_115_LocustOfFamine.png" id="115" name="בער  לש  הברא" />	
 	<trinket achievement="313" description="תוומ  איבמ  ינא" gfx="trinket_116_LocustOfDeath.png" id="116" name="תוומ  לש  הברא" />	
 	<trinket achievement="314" description="שוביכ  איבמ  ינא" gfx="trinket_117_LocustOfConquest.png" id="117" name="שוביכ  לש  הברא" />	
-	<trinket achievement="304" description="תולדג  ןה" gfx="trinket_118_BatWing.png" id="118" name="ףלטע  יפנכ" cache="flying" />	
+	<trinket achievement="304" description=",,,תולדג  ןה" gfx="trinket_118_BatWing.png" id="118" name="ףלטע  יפנכ" cache="flying" />	
 	<trinket achievement="301" description="!שדחתה" gfx="trinket_119_StemCell.png" id="119" name="עזג  את" />	
 	
 	<!-- Booster Pack #1 -->
@@ -917,7 +917,7 @@
 	<trinket	id="134"	gfx="trinket_134_GiantBean.png" name="המוצע  תיעועש" description="קנע  תוצלפה" />
 	<trinket	id="135"	gfx="trinket_135_Lighter.png" name="תיצמ" description="ףרשנ  םלועב  הפצ" />
 	<trinket	id="136"	gfx="trinket_136_BrokenPadlock.png" name="רובש  לוענמ" description="תוחתפמ  ןה  תוצצפ" />
-	<trinket	id="137"	gfx="trinket_137_Myosotis.png" name="הירכז" description="ינחכשת  לא" />
+	<trinket	id="137"	gfx="trinket_137_Myosotis.png" name="הירכז" description=",,,ינחכשת  לא" />
 	<trinket	id="138"	achievement="458" gfx="trinket_138_M.png" name="מ'" description="לרוג  תא  שדחמ  לירגהל9רובש  ה" />
 	<trinket	id="139"	gfx="trinket_139_TeardropCharm.png" name="העמדה  לש  ןחה" description="לזמ  רב  שיגרמ  הז" />
 	<trinket	id="140"	gfx="trinket_140_AppleOfSodom.png" name="םודס  לש  חופתה" description="קיר  שיגרמ  הז" />
@@ -950,7 +950,7 @@
 	<trinket	id="166" achievement="567" gfx="trinket_166_ModelingClay.png" name="לוסיפל  רמיח" description="???" />
 	<trinket	id="167" achievement="576" gfx="trinket_167_PolishedBone.png" name="הקירבמ  םצע" description="רבעממ  רבח" />
 	<trinket	id="168" achievement="577" gfx="trinket_168_HollowHeart.png" name="לולח  בל" description="הריבש  הכרב" />
-	<trinket	id="169" achievement="568" gfx="trinket_169_KidsDrawing.png" name="דלי  לש  רויצ" description="רכומ  הארנ" />
+	<trinket	id="169" achievement="568" gfx="trinket_169_KidsDrawing.png" name="דלי  לש  רויצ" description=",,,רכומ  הארנ" />
 	<trinket	id="170" achievement="569" gfx="trinket_170_CrystalKey.png" name="ישיבג  חתפמ" description="ינשה  דצל  אורקל" />
 	<trinket	id="171" achievement="572" gfx="trinket_171_KeepersBargain.png" name="רמוש  לש  הקסע" description="רבדמ  ףסכ" />
 	<trinket	id="172" achievement="573" gfx="trinket_172_CursedPenny.png" name="תללוקמ  הרוגא" description="תוללמוא  ססובמ  רשוע" />
@@ -964,7 +964,7 @@
 	<trinket	id="180" achievement="581" gfx="trinket_180_FoundSoul.png" name="האצמנש  המשנ" description="!ףוספוס" persistent="true" cache="familiars" />
 	<trinket	id="181" achievement="578" gfx="trinket_181_ExpansionPack.png" name="הבחרה  תליבח" description="ףיכ  תופסות" />
 	<trinket	id="182" achievement="579" gfx="trinket_182_BethsEssence.png" name="יתב  לש  תוהמה" description="  רסומה  לומגת" />
-	<trinket	id="183" achievement="570" gfx="trinket_183_TheTwins.png" name="םימואתה" description="לופכ  האור  ינא" />
+	<trinket	id="183" achievement="570" gfx="trinket_183_TheTwins.png" name="םימואתה" description=",,,לופכ  האור  ינא" />
 	<trinket	id="184" achievement="571" gfx="trinket_184_AdoptionPapers.png" name="ץומיא  יכמסמ" description="תיב  םהל  ןת" />
 	<trinket	id="185" achievement="574" gfx="trinket_185_CricketLeg.png" name="רצרצ  לש  לגר" description="עוגנ" />
 	<trinket	id="186" achievement="575" gfx="trinket_186_ApollyonsBestFriend.png" name="#APOLLYONS_BEST_FRIEND_NAME" description="#APOLLYONS_BEST_FRIEND_DESCRIPTION" cache="familiars" />

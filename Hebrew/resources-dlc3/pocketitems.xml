@@ -44,7 +44,7 @@
 	<card type="special" pickup="8" achievement="97" description="???" id="42" name="סואכ  ףלק" announcer="334" mimiccharge="6" />
 	<card type="special" pickup="10" achievement="98" description="!הז  תא  ןעטת" id="43" name="יארשא  סיטרכ" announcer="335" mimiccharge="6" />
 	<card type="special" pickup="2" achievement="99" description="???" id="44" name="םיקוח  ףלק" announcer="361" announcerdelay="30" mimiccharge="1" />
-	<card type="special" pickup="9" achievement="100" description="...ןיחצמ  והשמ" id="45" name="תושונאה  דגנ  ףלק" announcer="333" announcerdelay="60" mimiccharge="6" />
+	<card type="special" pickup="9" achievement="100" description=",,,ןיחצמ  והשמ" id="45" name="תושונאה  דגנ  ףלק" announcer="333" announcerdelay="60" mimiccharge="6" />
 	<card type="special" pickup="2" achievement="120" description="?יתימא  ףוס" id="46" name="ינדבא  ךלמ" announcer="366" announcerdelay="110" mimiccharge="1" />
 	<card type="special" pickup="12" achievement="225" description="חתפיה  םוסמוס" id="47" name="אלכהמ  האיצי  ףלק" announcer="404" announcerdelay="30" mimiccharge="2" />
 	<card type="special" pickup="2" description="לופכ  שומיש" id="48" name="?  ףלק" announcer="408" announcerdelay="15" mimiccharge="1" />
@@ -87,7 +87,7 @@
 	<card type="special" announcer="742" announcerdelay="70" pickup="17" achievement="610" description="בוש" id="80" name="ישפוח  ףלק" mimiccharge="6" />
 	
 	<!-- Soul stones -->
-	<card type="rune" pickup="18" achievement="618" announcer="743" description="אלש  וא  ...שדחמ  לירגהל" id="81" name="קחצי  לש  ותמשנ" mimiccharge="4" />
+	<card type="rune" pickup="18" achievement="618" announcer="743" description="אלש  וא  ,,,שדחמ  לירגהל" id="81" name="קחצי  לש  ותמשנ" mimiccharge="4" />
 	<card type="rune" pickup="19" achievement="619" announcer="744" description="ךתבהא  תא  יל  ןת" id="82" name="לדגממ  םירמ  לש  התמשנ" mimiccharge="3" />
 	<card type="rune" pickup="20" achievement="620" announcer="745" description="חתפנ  יתלבה  תא  חתופ" id="83" name="ןיק  לש  ותמשנ" mimiccharge="6" />
 	<card type="rune" pickup="21" achievement="621" announcer="746" description="ךירוחאמ  שממ" id="84" name="הדוהי  לש  ותמשנ" mimiccharge="3" />
@@ -155,8 +155,8 @@
 	<pilleffect announcer2="797" id="37" name="ורטר  תייאר" announcer="410" announcerdelay="30" class="1-" mimiccharge="6" />
 	<pilleffect announcer2="798" id="38" name="ףוסה  דע  םירבח" announcer="452" announcerdelay="30" class="1+" mimiccharge="1" />
 	<pilleffect announcer2="799" id="39" name="לשלשמ  רמוח" announcer="443" announcerdelay="30" class="0-" mimiccharge="1" />
-	<pilleffect announcer2="800" id="40" name="...רדסב  אל  והשמ" announcer="444" announcerdelay="30" class="0+" mimiccharge="1" />
-	<pilleffect announcer2="801" id="41" name="...ינונשי  ינא" announcer="454" announcerdelay="30" class="1" mimiccharge="3" />
+	<pilleffect announcer2="800" id="40" name=",,,רדסב  אל  והשמ" announcer="444" announcerdelay="30" class="0+" mimiccharge="1" />
+	<pilleffect announcer2="801" id="41" name=",,,ינונשי  ינא" announcer="454" announcerdelay="30" class="1" mimiccharge="3" />
 	<pilleffect announcer2="802" id="42" name="!!!שגרתמ  ינא" announcer="453" announcerdelay="30" class="1" mimiccharge="6" />
 	<pilleffect announcer2="803" achievement="321" id="43" name="!העילב" announcer="451" announcerdelay="30" class="2+" mimiccharge="4" />
 	<pilleffect announcer2="804" achievement="325" id="44" name="!ףרוה" announcer="448" announcerdelay="70" class="0" mimiccharge="1" />
