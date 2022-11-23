@@ -86,7 +86,7 @@
 	<active description="ימעפ  בר  םיפלק  ללוחמ" gfx="Collectibles_085_DeckOfCards.png" id="85" maxcharges="6" name="םיפלק  תסיפח" />
 	<active achievement="13" description="ץולפמ  תא  ןמזמ" gfx="Collectibles_086_MonstrosTooth.png" id="86" maxcharges="3" name="ץולפמ  לש  ןשה" addcostumeonpickup="true" />
 	<passive achievement="15" description="תובולצ  תועמד" gfx="Collectibles_087_LokisHorns.png" id="87" name="יקול  לש  םיינרקה" />
-	<familiar achievement="14" description="הפיקת  רבח" gfx="Collectibles_088_LittleChubby.png" id="88" name='ןטקה  ן"מנמשה' />
+	<familiar achievement="14" description="הפיקת  רבח" gfx="Collectibles_088_LittleChubby.png" id="88" name='ןטקה  ן,מ,נ,מ,ש' />
 	<passive cache="tearcolor tearflag" description="הטאהה  טקפא" gfx="Collectibles_089_SpidersBite.png" id="89" name="שיבכע  תכישנ" />
 	<passive achievement="12" cache="tearcolor damage speed firedelay" description="קזנ  הלעמ" gfx="Collectibles_090_SmallRock.png" id="90" name="הנטקה  ןבאה" />
 	<passive description="תותלד  ךרד  תוארל" gfx="Collectibles_091_SpelunkerHat.png" id="91" name="רקנוקחשמ  עבוכ" />
@@ -187,7 +187,7 @@
 	<active achievement="56" description="ריחמ  תרומת  םיביואל  יביסמ  קזנ" gfx="Collectibles_186_BloodRights.png" id="186" maxcharges="0" name="םדה  תויוכז" />
 	<familiar achievement="65" description="ותוא  ףנה" gfx="Collectibles_187_GuppysHairball.png" id="187" name="יפאג  לש  רעישה  רודכ" />
 	<familiar achievement="51" description="ףקתשמ  רבח" gfx="Collectibles_188_Abel.png" id="188" name="לבה" />
-	<passive achievement="63" cache="firedelay damage speed range" description="תונוכתה  לכ  תא  הלעמ" gfx="Collectibles_189_SMBSuperFan.png" hearts="99" id="189" maxhearts="2" name="לעה  ררוואמ  ב.י.ס" />
+	<passive achievement="63" cache="firedelay damage speed range" description="תונוכתה  לכ  תא  הלעמ" gfx="Collectibles_189_SMBSuperFan.png" hearts="99" id="189" maxhearts="2" name="לעה  ררוואמ  ב,י,ס" />
 	<passive bombs="99" description="תוצצפ  99" gfx="Collectibles_190_Pyro.png" id="190" name="וריפ" />
 	<passive cache="all" description="תשקה  יעבצ  לכב  תועמד" gfx="Collectibles_191_3DollarBill.png" id="191" name="םירלוד  3  רטש" />
 	<active cache="tearflag tearcolor range" description="תוינמז  העדות  תוירי" gfx="Collectibles_192_TelepathyForDummies.png" id="192" maxcharges="2" name="םימוטמוטל  היתפלט" />
@@ -246,7 +246,7 @@
 	<passive achievement="104" description="הקידב  יבלשב  ןיידע  הז" gfx="collectibles_244_techpointfive.png" id="244" name="5 ונכט" />
 	<passive description="הלופכ  הירי" gfx="collectibles_245_2020.png" id="245" name="6/6" cache="damage firedelay" />
 	<passive achievement="134" description="תודוס" gfx="collectibles_246_bluemap.png" id="246" name="הלוחכה  הפמה" />
-	<passive description="!םיטלוש  ךלש  םירבחה" gfx="collectibles_247_bffs.png" id="247" name='ל"טהח' />
+	<passive description="!םיטלוש  ךלש  םירבחה" gfx="collectibles_247_bffs.png" id="247" name='ח,ה,ט,ל' />
 	<passive description="םימוצע  םיבובזו  םישיבכע" gfx="collectibles_248_hivemind.png" id="248" name="תרווכ  חומ" />
 	<passive achievement="135" description="תויצפוא  דוע" gfx="collectibles_249_theresoptions.png" id="249" name="תויצפוא  ןנשי" />
 	<passive description="תוצצפ  לע  1  +  1" gfx="collectibles_250_bogobombs.png" id="250" name='א"קאק  תוצצפ' />
