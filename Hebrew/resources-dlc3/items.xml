@@ -472,7 +472,7 @@
 	<passive achievement="299" description="!תופודר  תועמד" gfx="Collectibles_462_EyeOfBelial.png" id="462" name="לעילב  ןיע" cache="range tearflag" devilprice="2" />
 	<passive description="!הצמוח  תועמד" gfx="Collectibles_463_SulfuricAcid.png" id="463" name="תיתרפוג  הצמוח" cache="damage tearcolor tearflag" />
 	<passive achievement="297" description="םימשמ  הנתמ" gfx="Collectibles_464_GlyphOfBalance.png" id="464" name="ןוזיא  לש  למס" soulhearts="4" />
-	<passive description="!063  תועמד" gfx="Collectibles_465_AnalogStick.png" id="465" name="יגולנא  לקמ" cache="firedelay" />
+	<passive description="!360  תועמד" gfx="Collectibles_465_AnalogStick.png" id="465" name="יגולנא  לקמ" cache="firedelay" />
 	<passive description="!תוצרפתה" gfx="Collectibles_466_Contagion.png" id="466" name="הקבדה" />
 	<familiar description="!עיבצמ  התא  ןאל  בל  םיש" gfx="Collectibles_467_Finger.png" id="467" name="עבצא" />
 	<familiar achievement="285" description="בקוע  אוה" gfx="Collectibles_468_Shade.png" id="468" name="לצ" />
