@@ -228,7 +228,7 @@
 	<passive blackhearts="2" description="3X  םייח  הלעמ" gfx="collectibles_226_blacklotus.png" hearts="4" id="226" maxhearts="2" name="רוחשה  סוטולה" soulhearts="2" />
 	<passive coins="3" description="ייחב  יתכסחש  המ  לכ" gfx="collectibles_227_piggybank.png" id="227" name="ןוכסיח  תפוק" />
 	<passive cache="firedelay tearcolor" description="דחפ  תוירי" gfx="collectibles_228_momsperfume.png" id="228" name="אמא  לש  םשובה" />
-	<passive cache="all" description="תנעטנ  הפקתמN" gfx="collectibles_229_monstroslung.png" id="229" name="ץולפמ  לש  האירה" />
+	<passive cache="all" description="תנעטנ  הפקתמ" gfx="collectibles_229_monstroslung.png" id="229" name="ץולפמ  לש  האירה" />
 	<passive achievement="128" cache="damage speed" description="דחפ  תוירי  +  קזנ  הלעמ  +  עשר  הלעמ" devilprice="2" gfx="collectibles_230_abaddon.png" id="230" name="ןודבא" />
 	<passive cache="tearcolor" description="תוקיבד  םיילגר" gfx="collectibles_231_balloftar.png" id="231" name="תפז  רודכ" />
 	<passive achievement="138" cache="speed" description="תצקמב  םיניינעה  תא  טאנ  ואוב" gfx="collectibles_232_stopwatch.png" id="232" name="רצע  ןועש" />
@@ -335,9 +335,9 @@
 	<passive cache="firedelay damage tearcolor" description="תועמד  ןומה  הלעמ  +  קזנ  דירומ" gfx="collectibles_330_soymilk.png" id="330" name="היוס  בלח" />
 	<passive achievement="156" cache="tearflag shotspeed firedelay range damage" description="תויהולא  תועמד" gfx="collectibles_331_godhead.png" id="331" name="לאשאר" special="true" devilprice="2" />
 	<passive achievement="116" cache="" description="?חצנ  ייח" gfx="collectibles_332_lazarusrags.png" id="332" name="רזעלא  לש  םיטוטרמסה" />
-	<passive achievement="130" cache="" description="llA  wonK  I" gfx="collectibles_333_mind.png" id="333" name="לכה  עדוי  ינא" devilprice="2" />
-	<passive achievement="131" cache="" description="llA  lleF  I" gfx="collectibles_334_body.png" hearts="6" id="334" maxhearts="6" name="לכה  שיגרמ  ינא" devilprice="2" />
-	<passive achievement="132" cache="" description="llA  mA  I" gfx="collectibles_335_soul.png" id="335" name="לכה  ינניה  ינא" soulhearts="4" devilprice="2" />
+	<passive achievement="130" cache="" description="לכה  עדוי  ינא" gfx="collectibles_333_mind.png" id="333" name="העדותה" devilprice="2" />
+	<passive achievement="131" cache="" description="לכה  שיגרמ  ינא" gfx="collectibles_334_body.png" hearts="6" id="334" maxhearts="6" name="ףוגה" devilprice="2" />
+	<passive achievement="132" cache="" description="לכה  ינניה  ינא" gfx="collectibles_335_soul.png" id="335" name="המשנה" soulhearts="4" devilprice="2" />
 	<passive cache="tearcolor tearflag range shotspeed" description="הליער  הליה  םע  תועמד" gfx="collectibles_336_deadonion.png" id="336" name="תמ  לצב" />
 	<passive cache="" description="רובש  הזש  ענכושמ  ינא" gfx="collectibles_337_brokenwatch.png" id="337" name="רובש  ןועש" />
 	<active description="ךדיצל  ראשא  דימת" gfx="collectibles_338_boomerang.png" id="338" maxcharges="70" name="גנרמוב" shopprice="10" chargetype="timed" />
@@ -506,7 +506,7 @@
 	<passive description="שא  תועמד" gfx="collectibles_495_ghostpepper.png" id="495" name="םיאפר  לפלפ" />
 	<passive achievement="292" description="קרזמ  תיירי" gfx="collectibles_496_euthanasia.png" id="496" name="דסח  תתמה" />
 	<passive description="הווסומ  דלי" gfx="collectibles_497_camoundies.png" id="497" name="האווסה  ינותחת" cache="speed" />
-	<passive achievement="306" description="ןזואמ  דואמ  שיגרמ  התא" gfx="collectibles_498_duality.png" id="498" name="תוינש" />
+	<passive achievement="306" description="ןזואמ  דואמ  שיגרמ  התא" gfx="collectibles_498_duality.png" id="498" name="םויק וד" />
 	<passive achievement="283" description="ךמע  היהי  םולשהש" gfx="collectibles_499_eucharist.png" id="499" name="הדועסה" />
 	
 	<familiar achievement="298" description="!םיקש  ןתונ" gfx="Collectibles_500_SackOfSacks.png" id="500" name="םיקשה  קש" />
@@ -569,13 +569,13 @@
 	<familiar achievement="394" name="תדדוחמ  עלצ" gfx="Collectibles_544_PointyRib.png" description="תוריקד  ןמז" id="544" />
 	<active achievement="401" name="םיתמה  רפס" gfx="Collectibles_545_BookOfTheDead.png" description="רבקה  ןמ  ולע" id="545" maxcharges="6" />
 	<passive achievement="400" name="אבא  לש  תעבטה" gfx="Collectibles_546_DadsRing.png" description="אבא  לש  ותכרב" id="546" />
-	<passive achievement="397" name="ןישוריג  יכמסמ" gfx="Collectibles_547_DivorcePapers.png" description="תונקיר  שיגרמ  התא  +  תומד  הלעמ" id="547" cache="firedelay" />
+	<passive achievement="397" name="ןישוריג  יכמסמ" gfx="Collectibles_547_DivorcePapers.png" description="תונקיר  שיגרמ  התא  +  תועמד  הלעמ" id="547" cache="firedelay" />
 	<familiar achievement="395" name="תסלה  םצע" gfx="Collectibles_548_JawBone.png" description="איבת  ךל" id="548" />
 	<passive achievement="396" name="תוירירבש  תומצע" gfx="Collectibles_549_BrittleBones.png" description="באוכ  לכה" id="549" />
 	
 	<active name="רובש  הריפח  תא" gfx="Collectibles_550_ShovelPiece1.png" description="ללוקמ  שיגרמ  הז" id="550" maxcharges="4" />
 	<passive name="רובש  הריפח  תא" gfx="Collectibles_551_ShovelPiece2.png" description="חכשנ  אל  ךא  דובא" id="551" />
-	<active name="#MOMS_SHOVEL_NAME" gfx="Collectibles_552_MomsShovel.png" description="#MOMS_SHOVEL_DESCRIPTION" id="552" maxcharges="4" />
+	<active name="אמא לש הריפחה תא" gfx="Collectibles_552_MomsShovel.png" description="חכשנ  אל  ךא  דובא" id="552" maxcharges="4" />
 	
 <!-- REPENTANCE BEGIN -->
 	<passive	id="553"	gfx="Collectibles_553_Mucormycosis.png" name="סיזוקימרוקומ" description="םיגבנ  תוירי" cache="tearcolor" />
@@ -614,7 +614,7 @@
 	<passive	id="586"	achievement="429" gfx="Collectibles_586_JacobsLadder.png" name="תוגרדמה" description="ןדע  ןגל  תוגרדמ" />
 	
 	<passive	id="588"	gfx="Collectibles_588_Sol.png" name="אשמש" description="ןרוק  ןוחצינה" />
-	<passive	id="589"	gfx="Collectibles_589_Luna.png" name="תודוס  דוע" description="הנבל" />
+	<passive	id="589"	gfx="Collectibles_589_Luna.png" name="הנבל" description="תודוס  דוע" />
 	<passive	id="590"	gfx="Collectibles_590_Mercurius.png" name="המח" description="קמקמח  שיגרמ  התא  +  תוריהמ  הלעמ" cache="speed" />
 	<passive	id="591"	gfx="Collectibles_591_Venus.png" name="הגונ" description="הפי  שיגרמ  התא  +  םייח  הלעמ" maxhearts="2" hearts="4" />
 	<passive	id="592"	gfx="Collectibles_592_Terra.png" name="ץראה  רודכ" description="טולשל  דלונ" cache="damage tearflag" />
@@ -637,7 +637,7 @@
 	<active		id="609"	achievement="448" gfx="Collectibles_609_FloriansD6.png" name="יחצנ  6ק" description="???" maxcharges="2" />
 	<familiar	id="610"	achievement="450" gfx="Collectibles_610_BirdCage.png" name="רופיצל  בולכ" description="ןמש  רבח" />
 	<active		id="611"	achievement="497" gfx="Collectibles_611_Larynx.png" name="ןורג" description="ילש  באכה  תא  עמש" maxcharges="12" initcharge="1" cooldown="12" />
-	<familiar	id="612"	achievement="460" gfx="Collectibles_612_LostSoul.png" name="הדובע  המשנ" description="וילא  ןגה" />
+	<familiar	id="612"	achievement="460" gfx="Collectibles_612_LostSoul.png" name="הדובע  המשנ" description="וילע  ןגה" />
 	
 	<passive	id="614"	gfx="Collectibles_614_BloodBombs.png" name="םד  תוצצפ" description="םייח  הלעמ  +  םימד  תוצרפתה" maxhearts="2" hearts="10" />
 	<familiar	id="615"	gfx="Collectibles_615_LilDumpy.png" name="ןוברח" description="חופנ  רבח" />
@@ -664,8 +664,8 @@
 	<active		id="636"	gfx="Collectibles_636_RKey.png" name="ר  רותפכ" description="שדחמ  ליחתהל  ןמז" shopprice="99" devilprice="2" />
 	<passive	id="637"	gfx="Collectibles_637_KnockoutDrops.png" name="ץחמה  תופיט" description="!ףורגא  תוללוכ  ןה" />
 	<active		id="638"	gfx="Collectibles_638_Eraser.png" name="קחמ" description="ךיביוא  תא  קחמ" maxcharges="1" chargetype="special" />
-	<active		id="639"	achievement="442" gfx="Collectibles_639_YuckHeart.png" name="!ליעגמ" description="החוד  בל" maxcharges="4" />
-	<active		id="640"	achievement="418" gfx="Collectibles_640_UrnOfSouls.png" name="תומשנה  דכ" description="םנוגי  תא  ררחש" maxcharges="0" persistent="true" />
+	<active		id="639"	achievement="442" gfx="Collectibles_639_YuckHeart.png" name="תומשנה  דכ" description="החוד  בל" maxcharges="4" />
+	<active		id="640"	achievement="418" gfx="Collectibles_640_UrnOfSouls.png" name="!ליעגמ" description="םנוגי  תא  ררחש" maxcharges="0" persistent="true" />
 	<passive	id="641"	achievement="446" gfx="Collectibles_641_Akeldama.png" name="םימדה  הדש" description="ךתרובג  תא  ךופש" />
 	<active		id="642"	achievement="472" gfx="Collectibles_642_MagicSkin.png" name="ףשוכמ  רוע" description="ומשגתה  ךיתונוצר  לכ" maxcharges="6" />
 	<passive	id="643"	achievement="470" gfx="Collectibles_643_Revelation.png" name="תולגתה" description="ךתנומא  תא  רעה" cache="flying" soulhearts="4" devilprice="2" />

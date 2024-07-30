@@ -3,8 +3,7 @@ import time
 
 currentCopy = ""
 while True:
-
-    if(currentCopy != pyperclip.paste()):
+    if currentCopy != pyperclip.paste():
         temp = pyperclip.paste().replace("\n", "").replace("\r", "")[::-1]
         if temp.endswith(" "):
             temp = temp[ : -1]
