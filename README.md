@@ -9,4 +9,5 @@
 תהנו ותודה מראש למי שיחליט לתרום מהידע שלו לפרויקט (לא רק למה שציינו קודם, גם תרגום יותר טוב ודברים שאנחנו פשוט שככנו לתרגם יתקבלו בברכה)!
 
 Hebrew translation mod for The Binding of Isaac: Repentance
+
 [Steam page](https://steamcommunity.com/sharedfiles/filedetails/?id=2834781865)
