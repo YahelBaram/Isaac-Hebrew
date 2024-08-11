@@ -11,3 +11,5 @@
 Hebrew translation mod for The Binding of Isaac: Repentance
 
 [Steam page](https://steamcommunity.com/sharedfiles/filedetails/?id=2834781865)
+
+[Translation page](https://docs.google.com/document/d/1DPyvOUjAchk5JIwnRo4MUArvyAsRidT9hWMDhbiaJd8/edit) 
